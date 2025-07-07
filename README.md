@@ -347,8 +347,5 @@ pip install scikit-learn
 
 ## 🤝 Contribuciones
 
-Este es un ejemplo educativo. Siéntete libre de:
-- Modificar el código para tus necesidades
-- Agregar nuevas funcionalidades
-- Mejorar la documentación
+Este es un ejemplo. Siéntete libre de:
 - Reportar issues o sugerencias 
