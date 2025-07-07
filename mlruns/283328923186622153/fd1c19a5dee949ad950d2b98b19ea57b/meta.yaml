@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Bruno/Documents/FABRICA%204.0/CanceR_vida/ML%20FLOW/mlruns/283328923186622153/fd1c19a5dee949ad950d2b98b19ea57b/artifacts
+end_time: 1751699332748
+entry_point_name: ''
+experiment_id: '283328923186622153'
+lifecycle_stage: active
+run_id: fd1c19a5dee949ad950d2b98b19ea57b
+run_name: regresion_lineal_salarios
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751699307370
+status: 3
+tags: []
+user_id: Bruno

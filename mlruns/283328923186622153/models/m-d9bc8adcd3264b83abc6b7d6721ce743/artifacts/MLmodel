@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Bruno/Documents/FABRICA%204.0/CanceR_vida/ML%20FLOW/mlruns/283328923186622153/models/m-d9bc8adcd3264b83abc6b7d6721ce743/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-d9bc8adcd3264b83abc6b7d6721ce743
+model_size_bytes: 519
+model_uuid: m-d9bc8adcd3264b83abc6b7d6721ce743
+prompts: null
+run_id: fd1c19a5dee949ad950d2b98b19ea57b
+utc_time_created: '2025-07-05 07:08:27.704235'

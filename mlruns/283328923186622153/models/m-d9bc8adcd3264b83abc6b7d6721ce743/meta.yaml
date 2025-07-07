@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Bruno/Documents/FABRICA%204.0/CanceR_vida/ML%20FLOW/mlruns/283328923186622153/models/m-d9bc8adcd3264b83abc6b7d6721ce743/artifacts
+creation_timestamp: 1751699307614
+experiment_id: '283328923186622153'
+last_updated_timestamp: 1751699324541
+model_id: m-d9bc8adcd3264b83abc6b7d6721ce743
+model_type: null
+name: modelo_regresion_lineal
+source_run_id: fd1c19a5dee949ad950d2b98b19ea57b
+status: 2
+status_message: null

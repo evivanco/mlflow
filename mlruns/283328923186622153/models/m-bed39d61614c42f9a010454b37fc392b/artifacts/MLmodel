@@ -1,0 +1,14 @@
+artifact_path: file:///C:/Users/Bruno/Documents/FABRICA%204.0/CanceR_vida/ML%20FLOW/mlruns/283328923186622153/models/m-bed39d61614c42f9a010454b37fc392b/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-bed39d61614c42f9a010454b37fc392b
+model_size_bytes: 782
+model_uuid: m-bed39d61614c42f9a010454b37fc392b
+prompts: null
+run_id: d7212197c53b43e8a4dae43e0d342e54
+utc_time_created: '2025-07-05 02:38:59.842343'
